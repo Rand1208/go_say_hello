@@ -1,3 +1,3 @@
-module github.com/rands120897/web-golang
+module github.com/Rand1208/golang.git
 
 go 1.16
